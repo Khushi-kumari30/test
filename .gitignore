@@ -1,0 +1,20 @@
+# Ignore node_modules in any subdirectory
+**/node_modules/
+
+# Ignore Python cache in any subdirectory
+**/__pycache__/
+*.pyc
+
+# Ignore frontend build info
+frontend/tsconfig.tsbuildinfo
+
+# Ignore environment variables
+.env
+# Ignore build outputs
+**/dist/
+**/build/
+frontend/tsconfig.tsbuildinfo
+
+# Ignore Python cache
+**/__pycache__/
+*.pyc

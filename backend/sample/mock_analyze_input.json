@@ -1,0 +1,8 @@
+{
+  "candidate_name": "Alex Johnson",
+  "role": "Senior Backend Engineer",
+  "experience_level": "Senior",
+  "resume_text": "Alex is a senior backend engineer with strong Python experience (FastAPI, pandas, asyncio). Built SQL reporting pipelines using PostgreSQL, optimizing queries and joins. Designed reliable architectures with caching and scalability considerations. Implemented CI/CD workflows with GitHub Actions and wrote pytest coverage. Worked with AWS services including S3 and RDS. Containerization experience is limited.",
+  "job_description_text": "We are hiring a Senior Backend Engineer. Requirements: strong Python, deep SQL expertise, Docker for containerized deployments, and System Design/architecture skills. Experience with AWS is required. Knowledge of CI/CD pipelines is a must. Responsibilities include designing reliable services and improving performance and latency."
+}
+
